@@ -1,4 +1,4 @@
-# Switching-Processes-in-AC-curcits-1ph-3ph-
+# Switching Processes in AC curcits 1ph/3ph
 This is a Matlab-App Model to analyse switching processes in AC curcuits, that allows to choose between one- and threephase analysis and different loads.
 
 The main purpose to build this App was to create a learning enviroment, where students in Electrical Engineering are able to comprehend complex current and voltage characteristics during switching on and off processes in AC curcuits. The user should be able to change the experimental setup at some points and plot the results afterwards. The setup is based on a test bed at the "Hochschule Darmstadt". The App was tested on a Windows 10 (64 Bit) Operating System. After installing the App on Matlab, a new icon should be visible in the App-List.
