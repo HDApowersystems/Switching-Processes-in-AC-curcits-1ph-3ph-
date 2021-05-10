@@ -19,4 +19,4 @@ The following changes can be made:
   - Selecting the diagrammed measurement results 
 
 The Simulation can be started by clicking on the "Ein" Button at the top right corner. The red light bulb should turn on for a few seconds and the plot should be visualized as configured. By first clicking on the axis and then on the "Home" button at the right top corner above the plot, the scale can be set back. The plot also can be stored as a Matlab figure, image or vector graphic. 
-Furthermore, it has to be pointed out that, the switching on and off time of the second capacitor (bottom right corner) varies statistically. Differnt plot-results may be possible by repeating the simulation with the same settings. 
+Furthermore, it has to be pointed out that, the switching on and off time of the second capacitor (bottom right corner) varies statistically. Differnt plot-results may be possible by rerun the simulation with the same settings. 
